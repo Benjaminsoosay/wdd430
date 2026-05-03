@@ -1,0 +1,5 @@
+echo "node_modules/
+.next/
+.DS_Store
+*.log" > .gitignore
+node_modules
